@@ -1,6 +1,12 @@
 /* External style sheet for Hello World page */
 /* Contact moi fo yer questions, folk!*/
+font-family: 'Urbanist', sans-serif;
 
 body {
-  background-color: #ffffff;
+  background-color: #ecebf3;
+  font-family: 'Urbanist', sans-serif;
+}
+
+h1 {
+  /* Use Urbanist font */
 }

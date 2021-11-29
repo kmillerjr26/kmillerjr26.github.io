@@ -1,0 +1,22 @@
+body{
+  background-color: #000000;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  color: white;
+}
+
+p{
+  font-size: 25 px;
+  line-height: 1.5;
+}
+
+h1{
+  font-weight: bold;
+  font-size: 130 px;
+  line-height: 1.2;
+}
+
+h2{
+  font-weight: bold;
+  font-size: 60 px;
+  line-height: 1.2;
+}
